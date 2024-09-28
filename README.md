@@ -2,7 +2,7 @@
 
 Sudoku Master is a web-based Sudoku game that allows players to enjoy the classic number puzzle game right in their browser. With a clean and responsive interface, this game provides an engaging Sudoku experience for players of all levels.
 
-![Screenshot 2024-09-28 at 3 30 30 AM](https://github.com/user-attachments/assets/f46fcd9b-df1a-4203-a7f0-8141e0077089)
+![ScreenRecording2024-09-28at11 46 34AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/498b0c96-38f9-484f-95e4-0c0ef70f91c3)
 
 ## Features
 
